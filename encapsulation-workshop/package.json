@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha"
   },
   "author": "Brendan Cowley",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
   }
 }
